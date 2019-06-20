@@ -10,7 +10,17 @@ a plugin for flutter images synchronization
 > 功能：将资产目录下的图片自动添加到pubspec.yaml的assets配置下面，并生成R文件，代码中直接引用R文件下的定义即可
 > 
 > 如有疑问，[加群讨论【AndroidRunner】](https://jq.qq.com/?_wv=1027&k=5wXzlBY)
+
+## 效果演示(Android Studio or IDEA)
+
+![Android Studio or IDEA](https://raw.githubusercontent.com/Leo0618/flutter-img-sync/master/androidstudio-play.gif)
   
+
+## 效果演示(vs code)
+
+![vs code](https://raw.githubusercontent.com/Leo0618/flutter-img-sync/master/vscode-play.gif)
+
+
 # How To Use
 
 ## step1.创建资产图片存放目录
@@ -33,17 +43,5 @@ a plugin for flutter images synchronization
 - 在代码中导入r.dart文件，然后引用R类的变量
 
 ## step4.pub get 刷新一下
-
-## 图片演示（android studio为例）
-
-![创建图片存放目录](https://upload-images.jianshu.io/upload_images/2091835-ba87d8c8b1901873.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![修改pubspec.yaml](https://upload-images.jianshu.io/upload_images/2091835-91182b10e5ceeb60.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![执行脚本任务](https://upload-images.jianshu.io/upload_images/2091835-dbfb3d5a16e12659.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![assets图片资源自动放置并生成r.dart](https://upload-images.jianshu.io/upload_images/2091835-96584efbe01a80f3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![使用R文件](https://upload-images.jianshu.io/upload_images/2091835-3dc54a6ac6e0a8b8.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
