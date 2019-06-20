@@ -1,5 +1,5 @@
 # flutter-img-sync
-an plugin for flutter images synchronization
+a plugin for flutter images synchronization
 
 > 声明：插件灵感来自于[asset_generator](https://github.com/flutter-dev/asset_generator)，致谢作者
 > 
