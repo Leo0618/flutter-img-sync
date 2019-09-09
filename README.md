@@ -36,7 +36,7 @@ a plugin for flutter images synchronization
     # assets/img/*
     # assets-generator-end
 
-## step3.执行 FlutterImgSync (flutter-img-sync)
+## step3.执行 FlutterImgSync (flutter-img-sync),AS和IDEA需要输入自定义图片预览的端口再点击确定执行插件
 
 - 命令执行后，图片将会被自动放置到pubspec.yaml文件的assets变量中
 - ./lib/r.dart 将会被创建
