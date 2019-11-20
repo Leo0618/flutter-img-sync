@@ -45,3 +45,8 @@ a plugin for flutter images synchronization
 ## step4.pub get 刷新一下
 
 
+### 插件商店地址
+
+IDEA/AS: https://plugins.jetbrains.com/plugin/12585-flutter-img-sync/
+
+vscode: https://marketplace.visualstudio.com/items?itemName=Lihaha.flutter-img-sync&ssr=false#overview
